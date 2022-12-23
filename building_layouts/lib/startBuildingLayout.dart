@@ -97,7 +97,7 @@ class MyApp extends StatelessWidget {
                   child: Text('Home'),
                 ),
                 shadowColor: Color.fromARGB(255, 250, 250, 250)),
-            body: Column(children: [
+            body: ListView(children: [
               imageSection,
               titleSection,
               buttonSection,
