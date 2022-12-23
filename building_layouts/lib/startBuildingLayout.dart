@@ -19,12 +19,12 @@ class MyApp extends StatelessWidget {
               Container(
                 padding: const EdgeInsets.only(bottom: 8),
                 child: const Text(
-                  'Oeschinen Lake Campground',
+                  'Lake Augelmam Azagza',
                   style: TextStyle(fontWeight: FontWeight.bold),
                 ),
               ),
               Text(
-                'Kandersteg, Switzerland',
+                'Morocco, Middle Atlas',
                 style: TextStyle(color: Colors.grey[500]),
               )
             ],
