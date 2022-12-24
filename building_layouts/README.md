@@ -4,4 +4,5 @@ Building a flutter application allows us to chose between material and no materi
 
 > In this app example i built the following UI including flutter material widgets belong the basics of layouts mechanism .
 
-![Capture](https://user-images.githubusercontent.com/121069003/209252147-00ddb725-5583-4edd-978b-f3fe02634096.PNG)
+![Capture](https://user-images.githubusercontent.com/121069003/209252147-00ddb725-5583-4edd-978b-f3fe02634096.PNG  ) <br>
+![Capture](https://user-images.githubusercontent.com/121069003/209416132-709e8765-3b10-4b19-830e-d6021893f3b6.PNG)

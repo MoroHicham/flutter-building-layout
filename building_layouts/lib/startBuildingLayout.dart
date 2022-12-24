@@ -96,7 +96,7 @@ class MyApp extends StatelessWidget {
                 title: const Center(
                   child: Text('Home'),
                 ),
-                shadowColor: Color.fromARGB(255, 250, 250, 250)),
+                shadowColor: const Color.fromARGB(255, 250, 250, 250)),
             body: ListView(children: [
               imageSection,
               titleSection,
